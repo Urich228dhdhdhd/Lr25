@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Lr25</string>
+    <string name="create_order">Сделать заказ</string>
+    <string name="create_order_title">Сделать заказ</string>
+    <string name="action_share">Поделиться</string>
+    <string name="action_pizza">Пицца и закуски</string>
 </resources>
